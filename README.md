@@ -1,3 +1,6 @@
+This project follows the Medium Tutorial [Getting started with create-react-app, Redux, React Router & Redux Thunk](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
+After cloning this repo be sure to add a `.env` file to the root of the project folder and inside the file add `NODE_PATH=src`
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
